@@ -14,17 +14,16 @@ This project demonstrates an end-to-end workflow for data analysis, including:
 
 ## 🗂️ Project Structure
 
-book_scraping_project/
-├── book_scraping_analysis.ipynb # Jupyter Notebook with scraping & EDA
+Book_scraping_and_Analysis/
+├── BookScraping.ipynb # Jupyter Notebook with scraping & EDA
 ├── books_clean.csv # Cleaned dataset ready for Power BI
 ├── README.md # Project description
 ├── dashboard/
-│ ├── books_dashboard.pbix # Power BI dashboard file
-│ └── dashboard_screenshot.png # Screenshot of the dashboard
+│ ├── books_scraping_dashboard.pbix # Power BI dashboard file
+│ └── books_scraping_dashboard.png # Screenshot of the dashboard
 └── plots/
-├── rating_distribution.png
-├── price_distribution.png
-└── availability.png
+├── Rating_distribution.png
+└── Price_distribution.png
 
 
 ---
